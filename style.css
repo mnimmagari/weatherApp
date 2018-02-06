@@ -1,0 +1,64 @@
+.navbar {
+    background: rgba(252,90,44,.89);
+    padding: 5px;
+    margin-bottom: 0px;
+}
+.navbar-brand {
+    display: block;
+    color: white !important;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+.container{
+	padding-top: 50px;
+	height: 700px;
+	max-width: 1600px;
+	margin: 0px !important;
+    justify-content: center !important;
+    align-content:  center !important;
+	background-image: url("images/pattern.svg");
+}
+
+.tileblock {
+	height:250px;
+	color: none;
+	margin-bottom: 10px;
+	padding: 10px;
+	-webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .05);
+	-moz-box-shadow: 0 0 1px 1px #fff;
+	box-shadow: 0 0 1px 1px rgba(0, 0, 0, .05);
+}
+.ttilebrief{
+	background-color: transparent;
+}
+.text-desc{
+	font-size: 20px;
+	font-weight: solid;
+	font-family:calibri;
+	color:#000000;
+	text-align: center;
+}
+.title-job, label{
+	color:white;
+	text-align: center;
+	font-size: 1.8em;
+}
+img {
+	width: 100px;
+	height: 100px;
+}
+form{
+	padding-top: 300px;
+	padding-bottom: 300px;
+	padding-left: 200px;
+}
+a, a:hover{
+	text-decoration: none;
+}
+.dayContainer{
+	background-image: none !important
+}
